@@ -2,7 +2,7 @@
 // Database configuration  
 $dbHost     = "localhost";
 $dbUsername = "root";
-$dbPassword = "alpha@2016b";
+$dbPassword = "mypass_word_is_encypted_by_@25412534&";
 $dbName     = "image";
 
 // Create database connection  
